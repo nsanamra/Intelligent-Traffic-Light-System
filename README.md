@@ -1,4 +1,4 @@
-# Intelligent Traffic System using YOLO
+# Intelligent Traffic Signal System using YOLO
 
 This project implements an intelligent traffic management system using YOLO for real-time vehicle detection. The system dynamically adjusts traffic signals based on vehicle density in different lanes to optimize traffic flow.
 
